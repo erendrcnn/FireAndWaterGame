@@ -48,7 +48,7 @@ The project can be run using a Java IDE or by compiling it. When the game starts
 
 ## Screen Shot
 
-![Game Screen](https://github.com/erendrcnn/FireAndWaterGame/assets/70805475/8e9c62d3-f792-4f2b-a7d3-3de228bd2a1f)
+![Game Screen](https://github.com/erendrcnn/FireAndWaterGame/assets/70805475/84716512-c152-4e39-a0bc-2836fa82e597)
 
 
 
