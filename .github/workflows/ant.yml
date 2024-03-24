@@ -21,7 +21,5 @@ jobs:
       with:
         java-version: '11'
         distribution: 'temurin'
-    - name: Build with Ant
-      run: ant -noinput -buildfile build.xml
     - name: Compile FireAndWaterGame.java
       run: javac FireAndWaterGame.java
