@@ -23,7 +23,5 @@ jobs:
         distribution: 'temurin'
     - name: Build with Ant
       run: ant -noinput -buildfile build.xml
-    - name: Run FireAndWaterGame
-      run: |
-        javac FireAndWaterGame.java
-      if: success()  # Derleme başarılı ise devam eder
+    - name: Compile FireAndWaterGame.java
+      run: javac FireAndWaterGame.java
